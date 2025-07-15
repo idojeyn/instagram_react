@@ -1,0 +1,134 @@
+{
+  "post": [
+    {
+      "username": "TigerSherov",
+      "profileImg": "https://randomuser.me/api/portraits/men/8.jpg",
+      "time": "36 min",
+      "postImg": "https://picsum.photos/seed/post1/800/600",
+      "likes": 112356,
+      "likedBy": [
+        "https://randomuser.me/api/portraits/women/4.jpg",
+        "https://randomuser.me/api/portraits/men/3.jpg"
+      ],
+      "caption": "Quick scene from downtown",
+      "commentsCount": 435
+    },
+    {
+      "username": "EmmaJones",
+      "profileImg": "https://randomuser.me/api/portraits/women/5.jpg",
+      "time": "1h",
+      "postImg": "https://picsum.photos/seed/post2/800/600",
+      "likes": 98123,
+      "likedBy": [
+        "https://randomuser.me/api/portraits/men/5.jpg",
+        "https://randomuser.me/api/portraits/women/6.jpg"
+      ],
+      "caption": "Chill vibes only ☕🎶",
+      "commentsCount": 287
+    },
+    {
+      "username": "David99",
+      "profileImg": "https://randomuser.me/api/portraits/men/4.jpg",
+      "time": "2h",
+      "postImg": "https://picsum.photos/seed/post3/800/600",
+      "likes": 15876,
+      "likedBy": [
+        "https://randomuser.me/api/portraits/women/6.jpg",
+        "https://randomuser.me/api/portraits/men/2.jpg"
+      ],
+      "caption": "Morning jog 🔁",
+      "commentsCount": 104
+    },
+    {
+      "username": "LilySun",
+      "profileImg": "https://randomuser.me/api/portraits/women/8.jpg",
+      "time": "45 min",
+      "postImg": "https://picsum.photos/seed/post4/800/600",
+      "likes": 67045,
+      "likedBy": [
+        "https://randomuser.me/api/portraits/men/9.jpg",
+        "https://randomuser.me/api/portraits/women/1.jpg"
+      ],
+      "caption": "Sunset mood 🌅",
+      "commentsCount": 389
+    },
+    {
+      "username": "alex_miles",
+      "profileImg": "https://randomuser.me/api/portraits/men/10.jpg",
+      "time": "1d",
+      "postImg": "https://picsum.photos/seed/post5/800/600",
+      "likes": 78654,
+      "likedBy": [
+        "https://randomuser.me/api/portraits/women/2.jpg",
+        "https://randomuser.me/api/portraits/men/7.jpg"
+      ],
+      "caption": "Epic bike ride! 🚴",
+      "commentsCount": 621
+    },
+    {
+      "username": "eva_rain",
+      "profileImg": "https://randomuser.me/api/portraits/women/12.jpg",
+      "time": "9h",
+      "postImg": "https://picsum.photos/seed/post6/800/600",
+      "likes": 34892,
+      "likedBy": [
+        "https://randomuser.me/api/portraits/men/6.jpg",
+        "https://randomuser.me/api/portraits/women/7.jpg"
+      ],
+      "caption": "Rainy day thoughts ☔",
+      "commentsCount": 501
+    },
+    {
+      "username": "city_lifee",
+      "profileImg": "https://randomuser.me/api/portraits/men/11.jpg",
+      "time": "30 min",
+      "postImg": "https://picsum.photos/seed/post7/800/600",
+      "likes": 41500,
+      "likedBy": [
+        "https://randomuser.me/api/portraits/women/11.jpg",
+        "https://randomuser.me/api/portraits/men/12.jpg"
+      ],
+      "caption": "Concrete jungle 🏙️",
+      "commentsCount": 330
+    },
+    {
+      "username": "mountain_view",
+      "profileImg": "https://randomuser.me/api/portraits/men/9.jpg",
+      "time": "4h",
+      "postImg": "https://picsum.photos/seed/post8/800/600",
+      "likes": 19230,
+      "likedBy": [
+        "https://randomuser.me/api/portraits/women/2.jpg",
+        "https://randomuser.me/api/portraits/men/1.jpg"
+      ],
+      "caption": "Nature therapy 🌲",
+      "commentsCount": 207
+    },
+    {
+      "username": "studio_shotz",
+      "profileImg": "https://randomuser.me/api/portraits/women/6.jpg",
+      "time": "8h",
+      "postImg": "https://picsum.photos/seed/post9/800/600",
+      "likes": 55890,
+      "likedBy": [
+        "https://randomuser.me/api/portraits/men/13.jpg",
+        "https://randomuser.me/api/portraits/women/14.jpg"
+      ],
+      "caption": "Behind the scenes 🎬",
+      "commentsCount": 421
+    },
+    {
+      "username": "foodielife",
+      "profileImg": "https://randomuser.me/api/portraits/women/7.jpg",
+      "time": "12h",
+      "postImg": "https://picsum.photos/seed/post10/800/600",
+      "likes": 33210,
+      "likedBy": [
+        "https://randomuser.me/api/portraits/men/14.jpg",
+        "https://randomuser.me/api/portraits/women/3.jpg"
+      ],
+      "caption": "Dinner date 🍝",
+      "commentsCount": 145
+    }
+  ]
+}

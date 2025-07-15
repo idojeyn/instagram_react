@@ -1,0 +1,64 @@
+{
+    "story": [
+        {
+            "name": "John",
+            "img": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        {
+            "name": "Emma",
+            "img": "https://randomuser.me/api/portraits/women/1.jpg"
+        },
+        {
+            "name": "Michael",
+            "img": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        {
+            "name": "Sophia",
+            "img": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        {
+            "name": "David",
+            "img": "https://randomuser.me/api/portraits/men/3.jpg"
+        },
+        {
+            "name": "Olivia",
+            "img": "https://randomuser.me/api/portraits/women/3.jpg"
+        },
+        {
+            "name": "James",
+            "img": "https://randomuser.me/api/portraits/men/4.jpg"
+        },
+        {
+            "name": "Isabella",
+            "img": "https://randomuser.me/api/portraits/women/4.jpg"
+        },
+        {
+            "name": "William",
+            "img": "https://randomuser.me/api/portraits/men/5.jpg"
+        },
+        {
+            "name": "Ava",
+            "img": "https://randomuser.me/api/portraits/women/5.jpg"
+        },
+        {
+            "name": "Alexander",
+            "img": "https://randomuser.me/api/portraits/men/6.jpg"
+        },
+        {
+            "name": "Mia",
+            "img": "https://randomuser.me/api/portraits/women/6.jpg"
+        },
+        {
+            "name": "Daniel",
+            "img": "https://randomuser.me/api/portraits/men/7.jpg"
+        },
+        {
+            "name": "Charlotte",
+            "img": "https://randomuser.me/api/portraits/women/7.jpg"
+        },
+        {
+            "name": "Matthew",
+            "img": "https://randomuser.me/api/portraits/men/8.jpg"
+        }
+    ]
+}

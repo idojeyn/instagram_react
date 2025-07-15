@@ -1,0 +1,64 @@
+.exploreDiv {
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.media-1 {
+  position: relative;
+  display: block;
+}
+
+.container1{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.media-1:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  transition: 0.3s all ease;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1;
+}
+
+.media-1:hover:after {
+  opacity: 1;
+  visibility: visible;
+}
+
+.media-1-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 2;
+  /* ustida turadi */
+}
+.media-1-content >p{
+  display: inline-block;
+  padding-right: 15px;
+}
+
+.media-1-content p,
+.media-1-content .category {
+  color: #fff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+  opacity: 0;
+  visibility: hidden;
+  position: relative;
+  transition: 0.3s all ease;
+}
+
+.media-1:hover .media-1-content p,
+.media-1:hover .media-1-content .category {
+  opacity: 1;
+  visibility: visible;
+  bottom: 0;
+}

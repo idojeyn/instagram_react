@@ -1,0 +1,34 @@
+{
+    "user": [
+        {
+            "username": "_olix",
+            "fullName": "New to Instagram",
+            "profileImg": "https://randomuser.me/api/portraits/men/8.jpg"
+        },
+        {
+            "username": "sarah_arts",
+            "fullName": "Sarah Willows",
+            "profileImg": "https://randomuser.me/api/portraits/women/6.jpg"
+        },
+        {
+            "username": "alex_dev",
+            "fullName": "Alex Johnson",
+            "profileImg": "https://randomuser.me/api/portraits/men/4.jpg"
+        },
+        {
+            "username": "maria_travel",
+            "fullName": "Maria Santiago",
+            "profileImg": "https://randomuser.me/api/portraits/women/7.jpg"
+        },
+        {
+            "username": "johnnycode",
+            "fullName": "John Bennett",
+            "profileImg": "https://randomuser.me/api/portraits/men/9.jpg"
+        },
+        {
+            "username": "julia.fitness",
+            "fullName": "Julia Michaels",
+            "profileImg": "https://randomuser.me/api/portraits/women/10.jpg"
+        }
+    ]
+}
