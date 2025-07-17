@@ -12,7 +12,7 @@ import Explore from './components/explore/explore';
 function App() {
 
   const [user, setUser] = useState(null)
-  const [posts, setPosts] = useState('')
+  const [posts, setPosts] = useState([])
 
   const [isRegistered, setIsRegistered] = useState(
     localStorage.getItem('isRegistered') === 'true'

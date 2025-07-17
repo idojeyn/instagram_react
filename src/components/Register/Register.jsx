@@ -3,8 +3,8 @@ import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 const Register = ({ setIsRegistered }) => {
-    const navigate = useNavigate();
-    const [state, setState] = useState('');
+    const navigate = useNavigate()
+    const [state, setState] = useState('')
     const [form, setForm] = useState({
         fullname: '',
         nickname: '',
@@ -27,7 +27,6 @@ const Register = ({ setIsRegistered }) => {
             return;
         }
 
-        // Ma'lumotni localStorage ga saqlaymiz
         localStorage.setItem('user', JSON.stringify({ fullname, nickname }));
         localStorage.setItem('isRegistered', 'true');
 

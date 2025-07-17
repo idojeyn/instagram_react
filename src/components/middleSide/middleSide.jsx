@@ -53,7 +53,7 @@ const MiddleSide = ({ user, setIsRegistered }) => {
                                     return (
                                         < div key={i} className="storyParticular" >
                                             <div className="img">
-                                                <img className='statusImg' src={item.img} alt="rasm" />
+                                                <img className='statusImg' src={item.img} alt="rasm" loading="lazy"/>
                                             </div>
                                             <div className="profileName">{item.name}</div>
                                         </div>
@@ -87,7 +87,7 @@ const MiddleSide = ({ user, setIsRegistered }) => {
                                         </div>
 
                                         <div className="posting">
-                                            <img className='postImage' src={item.postImg} alt="rasm" />
+                                            <img className='postImage' src={item.postImg} alt="rasm" loading="lazy"/>
                                         </div>
                                         <div className="iconBlock">
                                             <div className="lefticon">

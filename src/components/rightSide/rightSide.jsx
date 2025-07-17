@@ -34,7 +34,7 @@ const RightSide = ({ handleLogout, user,handleChange,followStatus }) => {
                 <div key={i} className="topProfileRightBottom">
                   <div className="leftRightProfile">
                     <div className="imgDivRightSide">
-                      <img className='imageRightSideProfile' src={item.profileImg} alt="rasm" />
+                      <img className='imageRightSideProfile' loading="lazy" src={item.profileImg} alt="rasm" />
                     </div>
                     <div className="userNameBlock">
                       <div className="userNameRightSide">{item.username}</div>

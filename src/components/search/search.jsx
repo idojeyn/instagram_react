@@ -4,7 +4,8 @@ import { useState } from 'react';
 
 const Search = () => {
   const [searchTerm, setSearchTerm] = useState('');
-  const profiles = profile.profile;
+  const profiles = profile.profile
+  
   const filteredProfiles = profiles.filter((item) =>
     item.nickname.toLowerCase().startsWith(searchTerm.toLowerCase())
   );
@@ -22,7 +23,7 @@ const Search = () => {
           <div key={i} className="render">
            <div className="leftRightProfile">
                     <div className="imgDivRightSide">
-                      <img className='imageRightSideProfile' src={item.profileImg} alt="rasm" />
+                      <img className='imageRightSideProfile' loading="lazy" src={item.profileImg} alt="rasm" />
                     </div>
                     <div className="userNameBlock">
                       <div className="userNameRightSide">{item.fullname}</div>
